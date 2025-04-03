@@ -1,0 +1,44 @@
+Optimization Results
+====================
+
+Method: CCM
+Iteration 1: Function Value = 0.000000
+Iteration 2: Function Value = 0.000000
+
+Method: SD
+Iteration 1: Function Value = 7.793867
+Iteration 2: Function Value = 1.813439
+Iteration 3: Function Value = 1.010570
+Iteration 4: Function Value = 0.673894
+Iteration 5: Function Value = 0.492822
+Iteration 6: Function Value = 0.381623
+Iteration 7: Function Value = 0.307288
+Iteration 8: Function Value = 0.254548
+Iteration 9: Function Value = 0.215432
+Iteration 10: Function Value = 0.185408
+Iteration 11: Function Value = 0.161721
+Iteration 12: Function Value = 0.142610
+Iteration 13: Function Value = 0.126902
+Iteration 14: Function Value = 0.113787
+Iteration 15: Function Value = 0.102690
+Iteration 16: Function Value = 0.093190
+
+Method: NM
+Iteration 1: Function Value = 11.939643
+Iteration 2: Function Value = 1.741860
+Iteration 3: Function Value = 0.289940
+Iteration 4: Function Value = 0.052520
+Iteration 5: Function Value = 0.009957
+Iteration 6: Function Value = 0.001930
+Iteration 7: Function Value = 0.000378
+Iteration 8: Function Value = 0.000074
+Iteration 9: Function Value = 0.000015
+Iteration 10: Function Value = 0.000003
+Iteration 11: Function Value = 0.000001
+Iteration 12: Function Value = 0.000000
+
+Final Summary
+============
+Cyclic Coordinate Method: x = (-0.000000, 0.000000), f(x) = 0.000000, Iterations = 2
+Steepest Descent: x = (-0.101907, 0.249397), f(x) = 0.093190, Iterations = 16
+Newton's Method: x = (0.015415, 0.000000), f(x) = 0.000000, Iterations = 12
